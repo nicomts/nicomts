@@ -1,16 +1,13 @@
-## Hi there 👋
+# Nicolás Morales
 
-<!--
-**nicomts/nicomts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Final-year Information Systems Engineering student at UTN FRCU (Argentina).
+I work with Linux, networking and infrastructure, and I'm looking for my first role in NOC, sysadmin, infrastructure or SOC.
 
-Here are some ideas to get you started:
+## What I'm working on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **[homelab](https://github.com/nicomts/homelab)**: Proxmox lab on my old PC, documented as I build it, with design decisions, their trade-offs, and a writeup for each phase. Next up: OPNsense as a firewall, then automating the setup with Ansible.
+- **[sadservers-writeups](https://github.com/nicomts/sadservers-writeups)**: Solutions to SadServers troubleshooting scenarios, explaining the reasoning, not just the commands.
+
+## Contact
+
+[LinkedIn](https://linkedin.com/in/nmorales-li)
